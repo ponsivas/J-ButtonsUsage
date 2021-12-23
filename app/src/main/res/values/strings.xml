@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ButtonsUsage</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+    <string name="BUD">Button Usage Demo</string>
+    <string name="BTN3">Button 3</string>
+    <string name="BTN1">Button 1</string>
+    <string name="BTN2">Button 2</string>
+    <string name="TB">ToggleButton</string>
+    <string name="BTN4">Button 4</string>
+    <string name="BTN5">Button 5</string>
+</resources>
